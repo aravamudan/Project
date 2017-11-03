@@ -8,3 +8,23 @@
 11/03/2017  07:15 PM                 0 FirstFile.txt
                1 File(s)              0 bytes
                2 Dir(s)  350,315,225,088 bytes free
+ Volume in drive C is Windows
+ Volume Serial Number is 3640-449B
+
+ Directory of C:\gittest\Project
+
+11/03/2017  07:15 PM    <DIR>          .
+11/03/2017  07:15 PM    <DIR>          ..
+11/03/2017  07:15 PM               344 FirstFile.txt
+               1 File(s)            344 bytes
+               2 Dir(s)  350,314,369,024 bytes free
+ Volume in drive C is Windows
+ Volume Serial Number is 3640-449B
+
+ Directory of C:\gittest\Project
+
+11/03/2017  07:15 PM    <DIR>          .
+11/03/2017  07:15 PM    <DIR>          ..
+11/03/2017  07:26 PM               688 FirstFile.txt
+               1 File(s)            688 bytes
+               2 Dir(s)  350,314,369,024 bytes free
